@@ -1,3 +1,5 @@
+## About Me
+hello i am himanshu137, an Anime Lover, Gamer, and Programmer from Tokyo, Japan. Proud owner of https://multiversehost.cloud/ with 11k Instagram followers and 2.2k members on Discord.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/multiverse-development-964013065140043786) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/himanshu137) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu137_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu137) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UC8fCAJyqY7cy0WEs9lGiYoQ) 
