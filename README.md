@@ -1,4 +1,4 @@
-<img src='https://discord.c99.nl/widget/theme-1/1134096602051657738.png'/>
+[![Discord Presence](https://lanyard.cnrad.dev/api/1134096602051657738)](https://discord.com/users/1134096602051657738)
 ## About Me
 hello i am himanshu137, an Anime Lover, Gamer, and Programmer from Tokyo, Japan. Proud owner of https://multiversehost.cloud/ with 11k Instagram followers and 2.2k members on Discord.
 
