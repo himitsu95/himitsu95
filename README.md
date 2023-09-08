@@ -1,4 +1,4 @@
-<img src='https://discord.c99.nl/widget/theme-1/1134096602051657738.png' style="height: 400px;"/>
+<img src='https://discord.c99.nl/widget/theme-1/1134096602051657738.png'/>
 ## About Me
 hello i am himanshu137, an Anime Lover, Gamer, and Programmer from Tokyo, Japan. Proud owner of https://multiversehost.cloud/ with 11k Instagram followers and 2.2k members on Discord.
 
