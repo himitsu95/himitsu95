@@ -19,7 +19,7 @@ hello i am himanshu137, an Anime Lover, Gamer, and Programmer from Tokyo, Japan.
 <img src='https://api.waifu.pics/sfw/waifu' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=himanshu-137&icon=0&color=0)](https://visitcount.itsvg.in)
+![:aikocount](https://count.getloli.com/get/@himanshu-137?theme=gelbooru)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/himanshu137) 
