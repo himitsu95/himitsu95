@@ -15,9 +15,6 @@ hello i am himanshu137, an Anime Lover, Gamer, and Programmer from Tokyo, Japan.
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=himanshu-137&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src='https://api.waifu.pics/sfw/waifu' style="height: 400px;"/>
-
 ---
 ![:aikocount](https://count.getloli.com/get/@himanshu-137?theme=gelbooru)
 
