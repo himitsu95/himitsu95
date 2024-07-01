@@ -1,6 +1,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/733001033135161404)](https://discord.com/users/733001033135161404)
 ## About Me
-hello i am himanshu137, an Anime Lover, Gamer, and Programmer from India. Proud owner of https://multiversehost.cloud/ with 3.2k members on Discord.
+lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat bugs
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nextezza-821061664354205806) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/himanshu137) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu137_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu137) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https:/www.youtube.com/channel/UC8fCAJyqY7cy0WEs9lGiYoQ) 
