@@ -2,8 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Welcome%20to%20my%20profile&descAlignY=0&section=header&descAlign=100"/>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/733001033135161404)](https://discord.com/users/733001033135161404)
-
 <h4 align="center">About Me</h4>
 
 lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat bugs,
@@ -64,3 +62,6 @@ Just started learning to code and already dreaming in binary. I've got more bugs
 <div align="center">
   <img src="https://count.getloli.com/get/@himanshu-137?theme=gelbooru" height="200" alt="stats graph"  />
 </div>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/733001033135161404)](https://discord.com/users/733001033135161404)
+
