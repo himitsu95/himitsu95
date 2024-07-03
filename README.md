@@ -6,8 +6,9 @@
 
 <h4 align="center">About Me</h4>
 
-lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat bugs
+lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat bugs,
 
+Just started learning to code and already dreaming in binary. I've got more bugs in my code than a summer night, but I'm squashing them one by one! Laughing at my own syntax errors since day one. 🐛
 <h4 align="center">Socials</h4>
 
 ###
