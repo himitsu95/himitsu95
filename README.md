@@ -15,7 +15,7 @@ lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himitsu95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="30" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=himitsu95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
 </div>
 
 ###
