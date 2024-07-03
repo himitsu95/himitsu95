@@ -15,21 +15,9 @@ lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himitsu95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="250" alt="stats graph"  />
-</div>
-
-###
-###
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himitsu95&theme=dark&hide_border=false" height="250" alt="stats graph"  />
-</div>
-
-###
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himitsu95&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=himitsu95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=himitsu95&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himitsu95&hide_border=true" height="150" alt="activity-graph graph"  />
 </div>
 
 ###
