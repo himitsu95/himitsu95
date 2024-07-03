@@ -10,7 +10,20 @@ lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat
 
 <h4 align="center">Socials</h4>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/nextezza-821061664354205806) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/himanshu137) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/himanshu137_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu137) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https:/www.youtube.com/channel/UC8fCAJyqY7cy0WEs9lGiYoQ) 
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  <a href="https://www.instagram.com/himitsu.95/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://discord.gg/nextezza-821061664354205806" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
+
+###
 
 <h4 align="center">Tech Stack</h4>
 
@@ -37,4 +50,6 @@ lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat
 ---
 <h4 align="center">Profile Views</h4>
 
-![:aikocount](https://count.getloli.com/get/@himanshu-137?theme=gelbooru)
+<div align="center">
+  <img src="https://count.getloli.com/get/@himanshu-137?theme=gelbooru" height="200" alt="stats graph"  />
+</div>
