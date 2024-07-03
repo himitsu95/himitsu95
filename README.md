@@ -30,12 +30,11 @@ lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat
 
 <h4 align="center">Top Contributed Repo</h4>
 
-![](https://github-contributor-stats.vercel.app/api?username=himitsu95&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=himitsu95&limit=5&theme=dark&combine_all_yearly_contributions=true" height="200" alt="stats graph"  />
+</div>
 
 ---
 <h4 align="center">Profile Views</h4>
 
 ![:aikocount](https://count.getloli.com/get/@himanshu-137?theme=gelbooru)
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
