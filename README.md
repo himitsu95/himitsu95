@@ -22,7 +22,7 @@ lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himitsu95&theme=dark&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himitsu95&theme=dark&hide_border=false" height="250" alt="stats graph"  />
 </div>
 
 ###
