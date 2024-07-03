@@ -22,21 +22,14 @@ lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himitsu95&theme=dark&hide_border=false&include_all_commits=true&count_private=false" height="250" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himitsu95&theme=dark&hide_border=false" height="30" alt="stats graph"  />
 </div>
 
 ###
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=himitsu95&theme=dark&hide_border=false" height="250" alt="stats graph"  />
-</div>
-
-###
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himitsu95&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="250" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himitsu95&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="30" alt="stats graph"  />
 </div>
 
 ###
