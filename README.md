@@ -11,6 +11,7 @@
 **Web Developer and Gamer** 
 
 <h4 align="left">About Me</h4>
+
 <a href="https://github.com/himitsu95"><img align="left" width="100" ></a>
 lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat bugs,
 
@@ -74,9 +75,8 @@ Just started learning to code and already dreaming in binary. I've got more bugs
 <a href="https://github.com/himitsu95"><img align="left" width="100"></a>
 
 ```yaml
-People who visit my profile :3.
+Hehe, another stalker has been caught.
 
-Hehe~ another stalker has been caught.
 Welcome to my shadowy domain, where the darkness hides many secrets and unseen eyes follow your every move. Enter at your own risk, for you may uncover more than you bargained for.
 ```
 
