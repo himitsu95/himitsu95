@@ -91,5 +91,5 @@ Welcome to my shadowy domain, where the darkness hides many secrets and unseen e
   </a>
 </div>
 
-<p align="center">Want to stay updated with my latest projects or just share some tech insights? Connect with me on YouTube, Instagram, Discord, or Gmail. Let's build something amazing together!</p>
+<p align="center">```yaml Want to stay updated with my latest projects or just share some tech insights? Connect with me on YouTube, Instagram, Discord, or Gmail. Let's build something amazing together!```</p>
 <p align="center">My code is always cleaner than my desk!</p>
