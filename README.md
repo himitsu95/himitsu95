@@ -2,11 +2,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FF204E&text=Welcome%20To%20My%20Profile&descAlign=55&descAlignY=60&fontColor=ffffff"/>
 </p>
 
-<h4 align="center">About Me</h4>
+<a href="https://discord.gg/nextezza-821061664354205806"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/733001033135161404)](https://discord.com/users/733001033135161404"></a>
 
+
+### hey i'm Haruka
+
+**Web Developer and Gamer** 
+
+## **About me**
+<a href="https://github.com/himitsu95"><img align="left" width="100" ></a>
 lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat bugs,
 
-Just started learning to code and already dreaming in binary. I've got more bugs in my code than a summer night, but I'm squashing them one by one! Laughing at my own syntax errors since day one. 🐛
+Just started learning to code and already dreaming in binary. I've got more bugs in my code than a summer night, but I'm squashing them one by one! Laughing at my own syntax errors since day one. :bug:
+<br><br>
 
 <h4 align="center">Socials</h4>
 
@@ -70,6 +78,4 @@ People who visit my profile :3.
 Hehe~ another stalker has been caught.
 Welcome to my shadowy domain, where the darkness hides many secrets and unseen eyes follow your every move. Enter at your own risk, for you may uncover more than you bargained for.
 ```
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/733001033135161404)](https://discord.com/users/733001033135161404)
 
