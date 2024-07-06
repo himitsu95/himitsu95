@@ -57,11 +57,19 @@ Just started learning to code and already dreaming in binary. I've got more bugs
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himitsu95&hide_border=true" height="200" alt="activity-graph graph"  />
 </div>
 
-<h4 align="center">Profile Views</h4>
+## **Visitor Counter**
+<!-- <p align="center">
+	<img src="https://count.getloli.com/get/@himanshu-137?theme=gelbooru"> <br/>
+</p> -->
+<a href="https://discord.com/users/733001033135161404"><img align="right" width=400 src="https://count.getloli.com/get/@himanshu-137?theme=gelbooru"></a>
+<a href="https://github.com/himitsu95"><img align="left" width="100"></a>
 
-<div align="center">
-  <img src="https://count.getloli.com/get/@himanshu-137?theme=gelbooru" height="200" alt="stats graph"  />
-</div>
+```yaml
+People who visit my profile :3.
+
+Hehe~ another stalker has been caught.
+Welcome to my shadowy domain, where the darkness hides many secrets and unseen eyes follow your every move. Enter at your own risk, for you may uncover more than you bargained for.
+```
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/733001033135161404)](https://discord.com/users/733001033135161404)
 
