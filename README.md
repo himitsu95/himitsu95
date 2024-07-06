@@ -80,3 +80,9 @@ Hehe, another stalker has been caught.
 Welcome to my shadowy domain, where the darkness hides many secrets and unseen eyes follow your every move. Enter at your own risk, for you may uncover more than you bargained for.
 ```
 
+## **Connect with Himitsu95**
+<a href="https://github.com/himitsu95"><img align="right" width="100" /></a>
+**Got a bug that's driving you crazy? Shoot me a message on Discord for a speedy reply, or send an email if you prefer the old-school way!** [himitsu__95](https://discord.com/users/733001033135161404)
+
+**Email:** contact.himitsu95@gmail.com
+
