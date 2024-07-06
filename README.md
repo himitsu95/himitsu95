@@ -18,19 +18,6 @@ lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat
 Just started learning to code and already dreaming in binary. I've got more bugs in my code than a summer night, but I'm squashing them one by one! Laughing at my own syntax errors since day one. :bug:
 <br><br>
 
-<h4 align="center">Socials</h4>
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <a href="https://www.instagram.com/himitsu.95/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://discord.gg/nextezza-821061664354205806" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-</div>
-
 <h4 align="center">Tech Stack</h4>
 
 <div align="center">
@@ -86,3 +73,23 @@ Welcome to my shadowy domain, where the darkness hides many secrets and unseen e
 
 **Email:** contact.himitsu95@gmail.com
 
+
+<h4 align="center">Socials</h4>
+
+<div align="center">
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  <a href="https://www.instagram.com/himitsu.95/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://discord.gg/nextezza-821061664354205806" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="mailto:contact.himitsu95@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+<p align="center">Want to stay updated with my latest projects or just share some tech insights? Connect with me on YouTube, Instagram, Discord, or Gmail. Let's build something amazing together!</p>
+<p align="center">My code is always cleaner than my desk!</p>
