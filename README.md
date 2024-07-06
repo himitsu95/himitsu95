@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=FF204E&text=Welcome%20To%20My%20Profile&descAlign=55&descAlignY=60&fontColor=ffffff"/>
 </p>
 
-<a href="https://discord.gg/nextezza-821061664354205806"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/733001033135161404)](https://discord.com/users/733001033135161404"></a>
+<a href="https://discord.gg/nextezza-821061664354205806"><img align="right" width="425" src="https://lanyard.cnrad.dev/api/733001033135161404"></a>
 
 
 ### hey i'm Haruka
