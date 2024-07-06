@@ -10,7 +10,7 @@
 
 **Web Developer and Gamer** 
 
-## **About me**
+<h4 align="left">About Me</h4>
 <a href="https://github.com/himitsu95"><img align="left" width="100" ></a>
 lazy coder by day, anime marathoner by night. caffeine is my drug, i love to eat bugs,
 
