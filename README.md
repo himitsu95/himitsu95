@@ -41,12 +41,10 @@ Just started learning to code and already dreaming in binary. I've got more bugs
   <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
 </div>
 
-<h4 align="center">GitHub Stats</h4>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=himitsu95&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=himitsu95&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5" height="200" alt="streak graph"  />
-</div>
+## **Github Stats**
+<!-- <div><a href="https://github.com/himitsu95"><img width="100"></a><div> -->
+<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=himitsu95&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himitsu95&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
+</p>
 
 <h4 align="center">Contribution Graph</h4>
 
