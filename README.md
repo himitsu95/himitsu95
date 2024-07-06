@@ -23,8 +23,6 @@ Just started learning to code and already dreaming in binary. I've got more bugs
 <p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=himitsu95&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=himitsu95&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
 </p>
 
-<h4 align="center">Contribution Graph</h4>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=himitsu95&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
 </div>
