@@ -3,7 +3,7 @@
 </p>
 
 <a href="https://discord.gg/nextezza-821061664354205806">
-<img align="right" width="425" src="https://lanyard.cnrad.dev/api/733001033135161404" style="position: relative; top: -10mm;">
+<img align="right" width="425" src="https://lanyard.cnrad.dev/api/733001033135161404?imgStyle=circle&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117" style="position: relative; top: -10mm;">
 </a>
 
 ### hey i'm Haruka
