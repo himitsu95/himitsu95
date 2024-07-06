@@ -26,7 +26,7 @@ Just started learning to code and already dreaming in binary. I've got more bugs
 <h4 align="center">Contribution Graph</h4>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himitsu95&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" height="200" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himitsu95&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
 </div>
 
 ## **Visitor Counter**
